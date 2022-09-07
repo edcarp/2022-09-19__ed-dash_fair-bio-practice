@@ -106,7 +106,7 @@ Open Science is disruptive. It will change how we do reasearch and how society b
 
 We will teach you how planning and using the correct set of tools you can make your outputs ready for public sharing and reuse. 
 
-This hands-on 4 half-day sessions workshop covers the basics of Open Science and FAIR practices,
+This hands-on 2 day  workshop covers the basics of Open Science and FAIR practices,
 and looks at how to use these ideas in your own projects. The workshop is a mix of lectures
 and hands-on lessons where you will use the approaches learned and implement some of the discussed practices. 
 
