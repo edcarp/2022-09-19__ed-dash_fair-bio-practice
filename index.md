@@ -118,8 +118,8 @@ Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Bioscien
 
 <h2 id="general">General Information</h2>
 
-<strong>Registration:</strong> [Online](https://www.eventbrite.com/e/how-to-work-with-research-data-sep-2022-tickets-415720730897)  
-The course is free but there is a 50 pounds holding deposit refunded after attending the workshop.
+<strong>Registration:</strong> 
+The course is free 
 
 {% comment %}
 
