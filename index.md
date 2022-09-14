@@ -5,7 +5,7 @@ title: Ed-DaSH FAIR bio practice
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Edinburgh"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "CANCELLED"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "55.96327"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -93,7 +93,7 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-<h2 id="general"> Overview </h2>
+<h2 id="general"> THIS WORKSHOP HAS BEEN CANCELLED </h2>
 
 **FAIR in (Biological) Practice**
 
@@ -119,7 +119,7 @@ Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Bioscien
 <h2 id="general">General Information</h2>
 
 <strong>Registration:</strong> 
-The course is free 
+The workshop has been cancelled 
 
 {% comment %}
 
